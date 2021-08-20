@@ -1,0 +1,206 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (12-ParticulasFeedback.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(264,12): warning C4251: 'AbstractModel::position': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(265,12): warning C4251: 'AbstractModel::scale': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(266,12): warning C4251: 'AbstractModel::color': struct 'glm::vec<4,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(419): message : see declaration of 'glm::vec<4,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(267,12): warning C4251: 'AbstractModel::orientation': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(269,22): warning C4251: 'AbstractModel::vertexArray': class 'std::vector<AbstractModel::Vertex,std::allocator<AbstractModel::Vertex>>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(245): message : see declaration of 'std::vector<AbstractModel::Vertex,std::allocator<AbstractModel::Vertex>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(270,22): warning C4251: 'AbstractModel::index': class 'std::vector<std::seed_seq::result_type,std::allocator<std::seed_seq::result_type>>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\random(244): message : see declaration of 'std::vector<std::seed_seq::result_type,std::allocator<std::seed_seq::result_type>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(271,7): warning C4251: 'AbstractModel::aabb': class 'AbstractModel::AABB' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(65): message : see declaration of 'AbstractModel::AABB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(272,6): warning C4251: 'AbstractModel::sbb': class 'AbstractModel::SBB' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(51): message : see declaration of 'AbstractModel::SBB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(273,6): warning C4251: 'AbstractModel::obb': class 'AbstractModel::OBB' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(94): message : see declaration of 'AbstractModel::OBB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(75,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(76,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(77,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(78,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(79,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(80,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Sphere.h(39,6): warning C4251: 'Sphere::sbb': class 'AbstractModel::SBB' needs to have dll-interface to be used by clients of class 'Sphere'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(51): message : see declaration of 'AbstractModel::SBB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Box.h(37,7): warning C4251: 'Box::aabb': class 'AbstractModel::AABB' needs to have dll-interface to be used by clients of class 'Box'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AbstractModel.h(65): message : see declaration of 'AbstractModel::AABB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Camera.h(111,12): warning C4251: 'Camera::position': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Camera.h(112,12): warning C4251: 'Camera::front': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Camera.h(113,12): warning C4251: 'Camera::up': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Camera.h(114,12): warning C4251: 'Camera::right': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Camera.h(115,12): warning C4251: 'Camera::worldUp': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Camera.h(117,12): warning C4251: 'Camera::cameraTarget': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Texture.h(66,14): warning C4251: 'Texture::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Texture'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Texture.h(69,14): warning C4251: 'Texture::type': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Texture'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Bones.h(111,38): warning C4251: 'Bones::m_BoneMapping': class 'std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>' needs to have dll-interface to be used by clients of class 'Bones'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Bones.h(111): message : see declaration of 'std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Bones.h(112,24): warning C4251: 'Bones::m_BoneInfo': class 'std::vector<Bones::BoneInfo,std::allocator<Bones::BoneInfo>>' needs to have dll-interface to be used by clients of class 'Bones'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Bones.h(112): message : see declaration of 'std::vector<Bones::BoneInfo,std::allocator<Bones::BoneInfo>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Bones.h(113,30): warning C4251: 'Bones::bones': class 'std::vector<Bones::VertexBoneData,std::allocator<Bones::VertexBoneData>>' needs to have dll-interface to be used by clients of class 'Bones'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Bones.h(113): message : see declaration of 'std::vector<Bones::VertexBoneData,std::allocator<Bones::VertexBoneData>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Mesh.h(54,24): warning C4251: 'Mesh::textures': class 'std::vector<Texture *,std::allocator<Texture *>>' needs to have dll-interface to be used by clients of class 'Mesh'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Mesh.h(54): message : see declaration of 'std::vector<Texture *,std::allocator<Texture *>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Model.h(66,21): warning C4251: 'Model::meshes': class 'std::vector<Mesh *,std::allocator<Mesh *>>' needs to have dll-interface to be used by clients of class 'Model'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Model.h(50): message : see declaration of 'std::vector<Mesh *,std::allocator<Mesh *>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Model.h(67,24): warning C4251: 'Model::textureLoaded': class 'std::vector<Texture *,std::allocator<Texture *>>' needs to have dll-interface to be used by clients of class 'Model'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Mesh.h(54): message : see declaration of 'std::vector<Texture *,std::allocator<Texture *>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Model.h(68,14): warning C4251: 'Model::directory': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Model'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Model.h(70,12): warning C4251: 'Model::m_GlobalInverseTransform': struct 'glm::mat<4,4,glm::f32,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Model'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(518): message : see declaration of 'glm::mat<4,4,glm::f32,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Model.h(72,19): warning C4251: 'Model::importer': class 'Assimp::Importer' needs to have dll-interface to be used by clients of class 'Model'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\assimp\include\assimp\Importer.hpp(115): message : see declaration of 'Assimp::Importer'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Terrain.h(50,14): warning C4251: 'Terrain::heightMap': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Terrain'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(57,43): warning C4273: 'matToString': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(45,24): message : see previous definition of 'matToString'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(69,37): warning C4273: 'appendFrame': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(46,17): message : see previous definition of 'appendFrame'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(78,33): warning C4273: 'appendFrame': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(48,17): message : see previous definition of 'appendFrame'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(86,72): warning C4273: 'getKeyFrames': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(50,48): message : see previous definition of 'getKeyFrames'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(112,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(128,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(138,71): warning C4273: 'getKeyRotFrames': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(51,44): message : see previous definition of 'getKeyRotFrames'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(153,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(163,51): warning C4273: 'interpolate': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(52,22): message : see previous definition of 'interpolate'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(184,51): warning C4273: 'interpolate': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\AnimationUtils.h(54,18): message : see previous definition of 'interpolate'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\Colisiones.h(133,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\ShadowBox.h(40,11): warning C4251: 'ShadowBox::front': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'ShadowBox'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\ShadowBox.h(41,11): warning C4251: 'ShadowBox::up': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'ShadowBox'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\ShadowBox.h(42,11): warning C4251: 'ShadowBox::right': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'ShadowBox'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\ShadowBox.h(43,11): warning C4251: 'ShadowBox::mins': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'ShadowBox'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\CGALib\include\Headers\ShadowBox.h(44,11): warning C4251: 'ShadowBox::maxs': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'ShadowBox'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(95,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(328,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(959,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1125,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1141,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1257,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1258,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1259,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1260,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1264,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1318,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1320,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1375,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1375,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1377,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1377,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1475,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1479,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1483,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1487,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1630,59): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1631,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1640,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1641,57): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1650,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1661,84): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1662,86): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1668,80): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1669,82): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1816,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1828,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1841,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1847,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(1852,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2003,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2010,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2038,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2039,64): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2042,131): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2043,126): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2044,84): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2047,62): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2064,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2065,23): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2069,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2115,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2130,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2277,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2290,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2300,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2312,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2331,62): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2354,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2431,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2432,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2496,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2510,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2541,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2569,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2593,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2599,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\src\main.cpp(2603,20): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\15-ProyectoFinal.lib and object D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\15-ProyectoFinal.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 1653 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\glfw.pdb'; linking object as if no debug info
+  15-ProyectoFinal.vcxproj -> D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\Mendoza_Oscar_PF_CGA\15-ProyectoFinal\Release\15-ProyectoFinal.exe

@@ -1,0 +1,181 @@
+﻿  main.cpp
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(264,12): warning C4251: 'AbstractModel::position': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(265,12): warning C4251: 'AbstractModel::scale': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(266,12): warning C4251: 'AbstractModel::color': struct 'glm::vec<4,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(419): message : see declaration of 'glm::vec<4,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(267,12): warning C4251: 'AbstractModel::orientation': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(269,22): warning C4251: 'AbstractModel::vertexArray': class 'std::vector<AbstractModel::Vertex,std::allocator<AbstractModel::Vertex>>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(245): message : see declaration of 'std::vector<AbstractModel::Vertex,std::allocator<AbstractModel::Vertex>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(270,22): warning C4251: 'AbstractModel::index': class 'std::vector<std::seed_seq::result_type,std::allocator<std::seed_seq::result_type>>' needs to have dll-interface to be used by clients of class 'AbstractModel'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\random(244): message : see declaration of 'std::vector<std::seed_seq::result_type,std::allocator<std::seed_seq::result_type>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(271,7): warning C4251: 'AbstractModel::aabb': class 'AbstractModel::AABB' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(65): message : see declaration of 'AbstractModel::AABB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(272,6): warning C4251: 'AbstractModel::sbb': class 'AbstractModel::SBB' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(51): message : see declaration of 'AbstractModel::SBB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(273,6): warning C4251: 'AbstractModel::obb': class 'AbstractModel::OBB' needs to have dll-interface to be used by clients of class 'AbstractModel'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(94): message : see declaration of 'AbstractModel::OBB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(75,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(76,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(77,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(78,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(79,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(80,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Sphere.h(39,6): warning C4251: 'Sphere::sbb': class 'AbstractModel::SBB' needs to have dll-interface to be used by clients of class 'Sphere'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(51): message : see declaration of 'AbstractModel::SBB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Box.h(37,7): warning C4251: 'Box::aabb': class 'AbstractModel::AABB' needs to have dll-interface to be used by clients of class 'Box'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(65): message : see declaration of 'AbstractModel::AABB'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(111,12): warning C4251: 'Camera::position': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(112,12): warning C4251: 'Camera::front': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(113,12): warning C4251: 'Camera::up': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(114,12): warning C4251: 'Camera::right': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(115,12): warning C4251: 'Camera::worldUp': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(117,12): warning C4251: 'Camera::cameraTarget': struct 'glm::vec<3,float,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Camera'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(418): message : see declaration of 'glm::vec<3,float,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Texture.h(66,14): warning C4251: 'Texture::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Texture'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Texture.h(69,14): warning C4251: 'Texture::type': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Texture'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(111,38): warning C4251: 'Bones::m_BoneMapping': class 'std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>' needs to have dll-interface to be used by clients of class 'Bones'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(111): message : see declaration of 'std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(112,24): warning C4251: 'Bones::m_BoneInfo': class 'std::vector<Bones::BoneInfo,std::allocator<Bones::BoneInfo>>' needs to have dll-interface to be used by clients of class 'Bones'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(112): message : see declaration of 'std::vector<Bones::BoneInfo,std::allocator<Bones::BoneInfo>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(113,30): warning C4251: 'Bones::bones': class 'std::vector<Bones::VertexBoneData,std::allocator<Bones::VertexBoneData>>' needs to have dll-interface to be used by clients of class 'Bones'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(113): message : see declaration of 'std::vector<Bones::VertexBoneData,std::allocator<Bones::VertexBoneData>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Mesh.h(54,24): warning C4251: 'Mesh::textures': class 'std::vector<Texture *,std::allocator<Texture *>>' needs to have dll-interface to be used by clients of class 'Mesh'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Mesh.h(54): message : see declaration of 'std::vector<Texture *,std::allocator<Texture *>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(66,21): warning C4251: 'Model::meshes': class 'std::vector<Mesh *,std::allocator<Mesh *>>' needs to have dll-interface to be used by clients of class 'Model'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(50): message : see declaration of 'std::vector<Mesh *,std::allocator<Mesh *>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(67,24): warning C4251: 'Model::textureLoaded': class 'std::vector<Texture *,std::allocator<Texture *>>' needs to have dll-interface to be used by clients of class 'Model'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Mesh.h(54): message : see declaration of 'std::vector<Texture *,std::allocator<Texture *>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(68,14): warning C4251: 'Model::directory': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Model'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(70,12): warning C4251: 'Model::m_GlobalInverseTransform': struct 'glm::mat<4,4,glm::f32,glm::packed_highp>' needs to have dll-interface to be used by clients of class 'Model'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(518): message : see declaration of 'glm::mat<4,4,glm::f32,glm::packed_highp>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(72,19): warning C4251: 'Model::importer': class 'Assimp::Importer' needs to have dll-interface to be used by clients of class 'Model'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\external\assimp\include\assimp\Importer.hpp(115): message : see declaration of 'Assimp::Importer'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Terrain.h(50,14): warning C4251: 'Terrain::heightMap': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Terrain'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(57,43): warning C4273: 'matToString': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(45,24): message : see previous definition of 'matToString'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(69,37): warning C4273: 'appendFrame': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(46,17): message : see previous definition of 'appendFrame'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(78,33): warning C4273: 'appendFrame': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(48,17): message : see previous definition of 'appendFrame'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(86,72): warning C4273: 'getKeyFrames': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(50,48): message : see previous definition of 'getKeyFrames'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(112,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(128,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(138,71): warning C4273: 'getKeyRotFrames': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(51,44): message : see previous definition of 'getKeyRotFrames'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(153,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(163,51): warning C4273: 'interpolate': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(52,22): message : see previous definition of 'interpolate'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(184,51): warning C4273: 'interpolate': inconsistent dll linkage
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(54,18): message : see previous definition of 'interpolate'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Colisiones.h(133,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(179,62): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(182,62): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(925,20): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1075,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1076,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1077,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1078,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1082,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1109,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1109,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1111,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1111,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1156,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1159,22): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1162,25): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1165,25): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1168,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1171,26): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1174,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1177,26): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1180,27): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1183,27): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1186,25): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1189,25): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1192,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1195,26): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1245,110): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1371,59): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1372,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1381,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1382,57): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1391,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1403,84): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1404,87): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1410,80): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1411,83): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1413,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1425,107): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1426,110): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1432,103): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1433,106): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1477,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1485,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1617,127): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1656,139): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1690,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1691,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1774,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1778,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1795,21): warning C4018: '<': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(1980,33): warning C4018: '>': signed/unsigned mismatch
+D:\Oscar Mendoza Toledo\Documents\Ingenieria\10Semestre\CGA\ComputacionGraficaAvanzada\15-ProyectoFinal\src\main.cpp(2008,27): warning C4018: '>': signed/unsigned mismatch
+LINK : fatal error LNK1104: cannot open file 'CGALib.lib'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1075,5): error MSB6006: "link.exe" exited with code 1104.
